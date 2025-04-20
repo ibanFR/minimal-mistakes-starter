@@ -8,7 +8,8 @@ Software Architecture, Behavior Driven Development (BDD), Domain Driven Design (
 Continuous Delivery.
 
 Throughout my career, I've had the opportunity to shape and drive impactful software solutions. My expertise lies in
-leveraging the J2EE tech stack to architect and deliver robust, scalable software systems that meet business objectives
+leveraging the Java EE tech stack to architect and deliver robust, scalable software systems that meet business 
+objectives
 and exceed client expectations.
 
 I'm deeply committed to fostering an environment of continuous learning and creative thinking, where teams can innovate
