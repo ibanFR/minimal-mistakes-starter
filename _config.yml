@@ -88,6 +88,11 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Iban_FR"
 
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -107,6 +112,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _guides
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 category_archive:
   type: liquid
