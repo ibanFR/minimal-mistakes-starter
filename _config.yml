@@ -59,7 +59,8 @@ plugins:
 author:
   name   : "Iván Fernández"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer"
+  bio    : "*Software Engineering Director at <u><a href='https://etu.co'>ETU</a></u>.*"
+  location: "Getxo, Spain"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
