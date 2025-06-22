@@ -32,7 +32,7 @@ feature_row:
     excerpt: "A selection of my recent projects, showcasing practical solutions, creative thinking, and a hands-on approach to software engineering."
     url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Read more"
+    btn_label: "Discover my work"
 ---
 
 {% include feature_row id="intro" type="center" %}
