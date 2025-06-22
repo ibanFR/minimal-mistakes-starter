@@ -6,7 +6,7 @@ header:
   show_overlay_excerpt: false
   actions:
     - label: "More Info"
-      url: "https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout"
+      url: "https://mmistakes.github.io/minimal-mistakes/docs/overriding-theme-defaults/"
 categories:
   - blog
 tags:
