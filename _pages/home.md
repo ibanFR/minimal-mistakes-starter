@@ -9,13 +9,12 @@ header:
         url: "/about/"
 excerpt: "Here you can find information about my projects, interests, and more."
 intro:
-  - excerpt: "Hi there 👋, I'm Iván Fernández 👀 a passionate software engineer 💻 looking to create a safe environment 🌱 that supports creative thinking💡in a continuous learning process to expand my knowledge in the ✨Java✨ ecosystem."
+  - excerpt: "Hi there 👋 I'm Iván Fernández 👀—a passionate software engineer 💻 dedicated to fostering a safe environment 🌱 that encourages creative thinking 💡 and continuous learning."
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "customizable"
     title: "About Me"
-    excerpt: "Passionate Software Engineer with over 17 years of hands-on experience in software development, 
-    specializing in Software Architecture, Behavior Driven Development (BDD), Domain Driven Design (DDD), Test Driven Development (TDD) and Continuous Delivery."
+    excerpt: "Discover my journey as a software engineer, my passions, and the principles that drive my work."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
