@@ -113,8 +113,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        overlay_image: /assets/images/getxo-gorrondatxe.jpg
   # _guides
   - scope:
       path: ""
