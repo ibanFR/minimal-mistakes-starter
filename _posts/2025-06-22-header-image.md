@@ -34,4 +34,14 @@ image's aspect ratio.
 This behaviour causes the header image to take up all  the visible space on the page, which is not ideal for all 
 pages of the site.
 
+## Sample Header Images from the Minimal Mistakes theme
+
+Here are some sample posts from the Minimal Mistakes theme that use the header image:
+
+- [Sample post with a large image and tons of text](https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/)
+- [Horizontal Header image](https://mmistakes.github.io/minimal-mistakes/layout/uncategorized/layout-header-image-horizontal/)
+
+You can check the content of these posts in the [Minimal Mistakes repository](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts)
+
+
 
