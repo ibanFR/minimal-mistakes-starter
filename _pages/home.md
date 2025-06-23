@@ -27,8 +27,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Explore the guides"
   - image_path: /assets/images/portfolio.jpg
-    alt: "projects"
-    title: "Projects"
+    alt: "portfolio"
+    title: "Portfolio"
     excerpt: "A selection of my recent projects, showcasing practical solutions, creative thinking, and a hands-on approach to software engineering."
     url: "/portfolio/"
     btn_class: "btn--primary"
